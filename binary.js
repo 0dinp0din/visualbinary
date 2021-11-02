@@ -14,5 +14,5 @@ function buttonclick(klasse, value, id) {
 
     button.className = img;
     button.src = `images/${img}.png`
-    output.innerHTML = `<h1>Bitverdien over i desimaltall: ${total}</h1>`
+    output.innerHTML = `<h1>Bitverdien over som vanlig tall: ${total}</h1>`
 }

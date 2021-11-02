@@ -10,9 +10,10 @@
 }
 
 #outputcontainer > h1 {
+  display: block;
   border: 3px solid black;
-  margin: 40px 500px 0 500px;
   text-align: center;
+  margin: 50px 220px 0 220px;
   background-color: blanchedalmond;
 }
 
